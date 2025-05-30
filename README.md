@@ -4,6 +4,10 @@ A fully responsive restaurant website built using HTML, CSS, and [Bootstrap 5]. 
 
 ---
 
+<div align="center">
+<img src="assets/img/" alt="Project Screenshot" width="700"/>
+</div>
+
 ## 🚀 Features
 
 - Responsive layout (mobile-first design)
