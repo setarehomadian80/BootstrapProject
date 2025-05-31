@@ -5,7 +5,7 @@ A fully responsive restaurant website built using HTML, CSS, and [Bootstrap 5]. 
 ---
 
 <div align="center">
-<img src="assets/img/" alt="Project Screenshot" width="700"/>
+<img src="assets/img/Screenshot 2025-05-30 221552.png" alt="Project Screenshot" width="700"/>
 </div>
 
 ## 🚀 Features
@@ -20,7 +20,7 @@ A fully responsive restaurant website built using HTML, CSS, and [Bootstrap 5]. 
 - Bootstrap Icons for enhanced visuals
 
 ---
-
+live demo[https://setarehomadian80.github.io/BootstrapProject/]
 ## 🛠️ Tech Stack
 
 - HTML5
